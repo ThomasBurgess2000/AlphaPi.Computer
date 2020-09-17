@@ -1,11 +1,11 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    background-color: rgb(24,26,27);
+    /*background-color: rgb(24,26,27);*/
 }
 p 
 {
     font-size: 1.2em;
-    color: white;
+    color: black;
     padding-right: 10px;
 }
 .container-fluid {
@@ -14,19 +14,4 @@ p
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-}
-h1 {
-    color:white;
-}
-h2 {
-    color: white;
-}
-h3 {
-    color:white;
-}
-a {
-    color: rgb(105,147,223);
-}
-li {
-    color: white;
 }
