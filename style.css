@@ -15,3 +15,7 @@ p
     margin-right: auto;
     margin-left: auto;
 }
+header {
+    display: flex;
+    align-items: center;
+}
